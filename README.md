@@ -1,5 +1,10 @@
 # WorkFlow Pro – QA Automation Assignment
 
+## Primary Tool Experience: Selenium WebDriver
+I have hands on experience with Selenium WebDriver for UI automation.
+For tools like Playwright, pytest, and BrowserStack, I have explained the testing approach conceptually, mapping them to equivalent Selenium concepts.
+
+
 ## Overview
 This repository contains my solution for the QA Automation assignment.
 The focus of this submission is on testing strategy, framework design, and
